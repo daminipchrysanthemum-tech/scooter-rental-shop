@@ -141,6 +141,9 @@ scooter-rental-shop/
 ├── DaminisRentalShop.py     # Main program — fixed and fully documented
 └── README.md
 ```
+---
+
+[DaminisRentalShop.py](https://github.com/user-attachments/files/27040210/DaminisRentalShop.py)
 
 ---
 
